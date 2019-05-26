@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>da39a3ee5e6b4b0d3255bfef95601890afd80709.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+</Project>
